@@ -1,1 +1,5 @@
-Networking in docker: https://pythonspeed.com/articles/docker-connection-refused/
+# Networking in docker
+https://pythonspeed.com/articles/docker-connection-refused/
+
+# Command to copy the container logs to a file
+docker logs containername >& logs/myFile.log
